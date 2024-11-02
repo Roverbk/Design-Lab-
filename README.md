@@ -1,2 +1,3 @@
 # Design-Lab
-![Project Diagram](https://github.com/username/repository-name/blob/main/images/diagram.png](https://github.com/Roverbk/Design-Lab-/blob/main/design_lab.jpg)
+![Design Lab](https://raw.githubusercontent.com/Roverbk/Design-Lab-/main/design_lab.jpg)
+
